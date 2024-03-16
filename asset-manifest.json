@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/react-portfolio-pro/static/css/main.428068c5.css",
-    "main.js": "/react-portfolio-pro/static/js/main.35d8d86b.js",
+    "main.js": "/react-portfolio-pro/static/js/main.c9ab3ecd.js",
     "static/media/pokemon-app.png": "/react-portfolio-pro/static/media/pokemon-app.50ec3c8f8aae5f995e81.png",
     "static/media/TicTacToe.png": "/react-portfolio-pro/static/media/TicTacToe.acbab16b2ddc2d3ab1c2.png",
     "static/media/Add-to-cart.png": "/react-portfolio-pro/static/media/Add-to-cart.b541c7793efb4ba44c8b.png",
     "static/media/pokemonsearch.png": "/react-portfolio-pro/static/media/pokemonsearch.a35e191d1b96694b6077.png",
+    "static/media/blog-search-mern.png": "/react-portfolio-pro/static/media/blog-search-mern.04f0b9fc676094b46897.png",
     "static/media/littlelemon.png": "/react-portfolio-pro/static/media/littlelemon.552668e4e4aa7ff5ea85.png",
     "static/media/passwordg.png": "/react-portfolio-pro/static/media/passwordg.8ecc09492cb6a624fa62.png",
     "static/media/boston-map.png": "/react-portfolio-pro/static/media/boston-map.764c7af7f14cd85fec29.png",
@@ -20,10 +21,10 @@
     "static/media/avatar6.jpg": "/react-portfolio-pro/static/media/avatar6.8fbcd9d41881b442663e.jpg",
     "index.html": "/react-portfolio-pro/index.html",
     "main.428068c5.css.map": "/react-portfolio-pro/static/css/main.428068c5.css.map",
-    "main.35d8d86b.js.map": "/react-portfolio-pro/static/js/main.35d8d86b.js.map"
+    "main.c9ab3ecd.js.map": "/react-portfolio-pro/static/js/main.c9ab3ecd.js.map"
   },
   "entrypoints": [
     "static/css/main.428068c5.css",
-    "static/js/main.35d8d86b.js"
+    "static/js/main.c9ab3ecd.js"
   ]
 }
