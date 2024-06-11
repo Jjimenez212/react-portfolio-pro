@@ -105,7 +105,7 @@ const data = [
         id: 11,
         category: 'FullStack-Development-React',
         image: Image11,
-        title: "Mern-beginner-blog",
+        title: "Job-portal-search",
         desc: "Beginner Mern Stack project with firebase backend database",
         demo: 'https://lnkd.in/gdzT2bja',
         github: 'https://github.com/Jjimenez212/job-portal-search'
