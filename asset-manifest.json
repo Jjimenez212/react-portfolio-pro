@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-portfolio-pro/static/css/main.428068c5.css",
-    "main.js": "/react-portfolio-pro/static/js/main.06a1d980.js",
+    "main.js": "/react-portfolio-pro/static/js/main.851506d0.js",
     "static/media/pokemon-app.png": "/react-portfolio-pro/static/media/pokemon-app.50ec3c8f8aae5f995e81.png",
     "static/media/TicTacToe.png": "/react-portfolio-pro/static/media/TicTacToe.acbab16b2ddc2d3ab1c2.png",
     "static/media/Add-to-cart.png": "/react-portfolio-pro/static/media/Add-to-cart.b541c7793efb4ba44c8b.png",
@@ -22,10 +22,10 @@
     "static/media/avatar6.jpg": "/react-portfolio-pro/static/media/avatar6.8fbcd9d41881b442663e.jpg",
     "index.html": "/react-portfolio-pro/index.html",
     "main.428068c5.css.map": "/react-portfolio-pro/static/css/main.428068c5.css.map",
-    "main.06a1d980.js.map": "/react-portfolio-pro/static/js/main.06a1d980.js.map"
+    "main.851506d0.js.map": "/react-portfolio-pro/static/js/main.851506d0.js.map"
   },
   "entrypoints": [
     "static/css/main.428068c5.css",
-    "static/js/main.06a1d980.js"
+    "static/js/main.851506d0.js"
   ]
 }
