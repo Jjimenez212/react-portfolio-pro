@@ -7,6 +7,8 @@ import Image6 from '../../assets/TicTacToe.png'
 import Image7 from '../../assets/passwordg.png'
 import Image8 from '../../assets/littlelemon.png'
 import Image9 from '../../assets/pokemonsearch.png';
+import Image10 from '../../assets/blog-search-mern.png';
+import Image11 from '../../assets/image11.png';
  
 const data = [
     {
@@ -89,6 +91,24 @@ const data = [
         desc: "Beginner Reactjs Pokemon Search app",
         demo: 'https://unique-palmier-5ffda3.netlify.app',
         github: 'https://github.com/Jjimenez212/Pokemon_search_app'
+    },
+    {
+        id: 10,
+        category: 'FullStack-Development-React',
+        image: Image10,
+        title: "Mern-beginner-blog",
+        desc: "Beginner Mern Stack project with firebase backend database",
+        demo: 'https://react-blogs-app-ea551.firebaseapp.com/',
+        github: 'https://github.com/Jjimenez212/firebase-blog'
+    },
+    {
+        id: 11,
+        category: 'FullStack-Development-React',
+        image: Image11,
+        title: "Mern-beginner-blog",
+        desc: "Beginner Mern Stack project with firebase backend database",
+        demo: 'https://lnkd.in/gdzT2bja',
+        github: 'https://github.com/Jjimenez212/job-portal-search'
     }
 ]
 
